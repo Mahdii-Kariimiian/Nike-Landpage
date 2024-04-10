@@ -18,7 +18,8 @@
 
   - Tailwind CSS: Tailwind CSS is used for styling, providing a utility-first approach for quickly building custom designs.
 
-## Scrrenshots 
+## Scrrenshot
+![Scrrenshot](https://github.com/Mahdii-Kariimiian/Nike-Landpage/assets/134393975/bd1890e0-f6dd-4288-9505-f2a6759ed917)
 
 
 ## Link
